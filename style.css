@@ -2,11 +2,15 @@
     background: #ff1b68;
 }
 
-h1{
-    color: #ffffff;
-    font-family: sans-serif;
-}
-
 .section-title{
     color: #2ddf5c;
+}
+
+h1{
+    color: #ffffff;
+    font-family: 'Anton' sans-serif;
+}
+
+h1{
+    font-family: sans-serif;
 }
