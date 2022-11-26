@@ -196,3 +196,8 @@ body {
 .button:focus {
     outline: none;
 }
+
+.open {
+    display: block !important;
+}
+
